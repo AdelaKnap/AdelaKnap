@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdelaKnap
+- 👀 I enjoy being out in the woods with my dog.
+- 🌱 I’m currently studying how to become a web developer.
+- 📫 You can reach me at: adkn2300@student.miun.se 
